@@ -1,0 +1,39 @@
+/* 
+ * Color Palette:
+ * https://colorhunt.co/palette/f0e5cff7f6f2c8c6c64b6587
+ *
+ * 60%: #F0E5CF
+ * 30%: #F7F6F2
+ *  5%: #C8C6C6
+ *  5%: #4B6587
+ */
+body {
+    background-color: #F0E5CF;
+}
+
+h1 {
+    color:#4B6587;
+}
+
+h3 {
+    color:#4B6587;
+}
+
+p {
+    color: #4B6587;
+}
+
+td {
+    color: #4B6587;
+}
+
+hr {
+    align: left;
+    border-color: #C8C6C6;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    height: 10px;
+    width: 5%;
+    
+}
